@@ -1,3 +1,7 @@
 dfasfafas
 
+<<<<<<< HEAD
 hahhaahahaha
+=======
+do some modify
+>>>>>>> dev
