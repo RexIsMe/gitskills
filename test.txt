@@ -2,4 +2,8 @@ dfasfafasf
 
 do some modify
 
+<<<<<<< HEAD
 jjjjjjjjjjjjj
+=======
+hhhhhhhhhhhhhhh
+>>>>>>> dev
