@@ -1,14 +1,1 @@
-dfasfafasf
-
-do some modify
-
-<<<<<<< HEAD
-jjjjjjjjjjjjj
-=======
-hhhhhhhhhhhhhhh
-<<<<<<< HEAD
->>>>>>> dev
-=======
-
-yyyyyyyyyyyyyyy
->>>>>>> dev
+dfasfafas
