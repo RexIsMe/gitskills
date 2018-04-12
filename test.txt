@@ -6,4 +6,9 @@ do some modify
 jjjjjjjjjjjjj
 =======
 hhhhhhhhhhhhhhh
+<<<<<<< HEAD
+>>>>>>> dev
+=======
+
+yyyyyyyyyyyyyyy
 >>>>>>> dev
